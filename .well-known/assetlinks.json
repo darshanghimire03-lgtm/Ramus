@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.doroi.ramus",
+      "sha256_cert_fingerprints": [
+        "60:9E:CC:81:90:03:3E:EE:F3:DD:22:54:C9:8E:E4:F2:45:7C:F8:EE:9A:39:DE:40:B4:FE:9B:EE:2E:71:E8:F4"
+      ]
+    }
+  }
+]
